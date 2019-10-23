@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '_constants.dart';
+import '../constants.dart';
 
 const iconSize = 60.0;
 
